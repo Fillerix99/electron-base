@@ -1,0 +1,20 @@
+{
+  "name": "electron-base",
+  "version": "0.0.1",
+  "description": "Electron base app for my applications",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fillerix99/electron-base.git"
+  },
+  "author": "Filip Nyquist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fillerix99/electron-base/issues"
+  },
+  "homepage": "https://github.com/Fillerix99/electron-base#readme"
+}
